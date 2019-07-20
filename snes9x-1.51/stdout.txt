@@ -1,0 +1,7 @@
+Reading config file C:\Users\Stefan\Desktop\Final_Project_Stefan\snes9x-1.51/snes9x.cfg
+Saving	config file	C:\Users\Stefan\Desktop\Final_Project_Stefan\snes9x-1.51/snes9x.cfg
+Found ROM file header (and ignored it).
+Map_LoROMMap
+"SUPER MARIOWORLD" [checksum ok] LoROM, 4Mbits, Type: ROM+RAM+BAT, Mode: 20, TV: NTSC, S-RAM: 2KB, ROMId: ____ Company: 01 CRC32: B19ED489
+Saving	config file	C:\Users\Stefan\Desktop\Final_Project_Stefan\snes9x-1.51/snes9x.cfg
+Saving	config file	C:\Users\Stefan\Desktop\Final_Project_Stefan\snes9x-1.51/snes9x.cfg
