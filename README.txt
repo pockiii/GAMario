@@ -2,7 +2,7 @@ README.txt
 
 I verify that I am the sole author of the programs contained in this
 folder, except where explicitly stated to the contrary
-Stefan Richard Chao
+████████████
 9.4.2019
 
 CONTENTS OF THIS FILE
